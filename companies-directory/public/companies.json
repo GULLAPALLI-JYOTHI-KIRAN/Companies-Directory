@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c1",
+    "name": "Aurora Labs",
+    "location": "Bengaluru",
+    "industry": "Healthcare",
+    "employees": 120,
+    "website": "https://auroralabs.example",
+    "description": "Developer tools for medical devices"
+  },
+  {
+    "id": "c2",
+    "name": "BlueBridge AI",
+    "location": "Hyderabad",
+    "industry": "Artificial Intelligence",
+    "employees": 85,
+    "website": "https://bluebridge.example",
+    "description": "AI-driven automation for supply chains"
+  },
+  {
+    "id": "c3",
+    "name": "Cedar Financial",
+    "location": "Mumbai",
+    "industry": "Finance",
+    "employees": 340,
+    "website": "https://cedarfin.example",
+    "description": "FinTech services and payments"
+  },
+  {
+    "id": "c4",
+    "name": "Dawn Energy",
+    "location": "Chennai",
+    "industry": "Energy",
+    "employees": 210,
+    "website": "https://dawnenergy.example",
+    "description": "Green energy solutions"
+  },
+  {
+    "id": "c5",
+    "name": "Everline Retail",
+    "location": "Bengaluru",
+    "industry": "Retail",
+    "employees": 55,
+    "website": "https://everline.example",
+    "description": "Omnichannel retail platform"
+  },
+  {
+    "id": "c6",
+    "name": "Fjord Systems",
+    "location": "Pune",
+    "industry": "Enterprise Software",
+    "employees": 440,
+    "website": "https://fjord.example",
+    "description": "ERP and backend platforms"
+  },
+  {
+    "id": "c7",
+    "name": "GreenThread",
+    "location": "Kolkata",
+    "industry": "Textiles",
+    "employees": 67,
+    "website": "https://greenthread.example",
+    "description": "Sustainable fabrics for fashion"
+  },
+  {
+    "id": "c8",
+    "name": "Helix Robotics",
+    "location": "Hyderabad",
+    "industry": "Robotics",
+    "employees": 150,
+    "website": "https://helix.example",
+    "description": "Industrial robotics and automation"
+  },
+  {
+    "id": "c9",
+    "name": "Indigo Media",
+    "location": "Mumbai",
+    "industry": "Media",
+    "employees": 42,
+    "website": "https://indigomedia.example",
+    "description": "Content production and streaming"
+  },
+  {
+    "id": "c10",
+    "name": "Jupiter Analytics",
+    "location": "Bengaluru",
+    "industry": "Data & Analytics",
+    "employees": 98,
+    "website": "https://jupiter.example",
+    "description": "Analytics as a service"
+  }
+]
