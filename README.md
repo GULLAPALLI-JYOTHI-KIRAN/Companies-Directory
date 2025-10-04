@@ -45,7 +45,7 @@ src/
 
 Clone the repository
 
-git clone https://github.com/your-username/companies-directory.git
+git clone https://github.com/GULLAPALLI-JYOTHI-KIRAN/Companies-Directory.git
 cd companies-directory
 
 
