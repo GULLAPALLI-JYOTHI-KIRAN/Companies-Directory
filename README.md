@@ -2,6 +2,9 @@
 To design and implement a React-based frontend application that consumes APIs and displays “Company” data with filtering features.
 Companies Directory
 
+# Hosting in Netlify
+URL: https://gjk-companies-directory.netlify.app/
+
 A responsive and interactive Companies Directory built with React.
 It allows users to search, filter, sort, and paginate through a list of companies fetched from a JSON file (/companies.json).
 
